@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bom dia 👍
 
-<!--
-**JhonatanDomingues/JhonatanDomingues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jhonatan Domingues;
 
-Here are some ideas to get you started:
+- estudante do 1º ano do ensino médio;
+- Estou aprendendo JavaScript;
+- Estou estudando na [Alura](https://www.alura.com.br);
+- Criei este espaço para organizar e/ou compartilhar quaisquer projetos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Me chame no meu [Discord](https://discord.com) público! 📫
+@jhonatandominguesjardim
+
+![](https://media.tenor.com/FYsjyvi3C7kAAAAi/rupert-cat.gif)
